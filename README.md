@@ -38,7 +38,7 @@ How to get Slack token https://api.slack.com/custom-integrations/legacy-tokens
 - Update Slack status
 
 ```
-:SlackStatusUpdate [status_text] [status_emoji]
+:SlackStatusUpdate [status_emoji] [status_text]
 
 " example
 :SlackStatusUpdate :palm_tree: Vacationing
