@@ -4,6 +4,7 @@ Update Slack status on Vim.
 
 ![slack_status](https://cloud.githubusercontent.com/assets/7896080/25063129/edf1377c-2216-11e7-8fc8-c377be2628eb.jpg)
 
+This plugin GET request to [/api/users.profile.set](https://api.slack.com/methods/users.profile.set) in Vim.
 
 ## Install
 
